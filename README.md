@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Cfun1's Github stats](https://github-readme-stats.vercel.app/api?username=Cfun1&show_icons=true&theme=algolia)
 <!--
 **Cfun1/Cfun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
